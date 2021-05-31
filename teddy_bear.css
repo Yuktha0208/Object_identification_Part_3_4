@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+    font-family: 'Dancing Script',cursive;
+    background-position: center;
+}
+.heading
+{
+font-size:40px;
+width: 100%;
+margin: 0px;
+}
+
+.heading3{
+    font-size: 20px;
+}
